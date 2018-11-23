@@ -7,6 +7,9 @@ The intergration of Newton equations was mainly done using the adaptive verlet s
 For more information about the description of the project and about how the simulation of the space prob was done, you can read the Python notebooks (**in french**):
 
 You can start by reading in this order:
+
 1.Solar System in 2D
+
 2.Solar System in 3D
+
 3.New Horizon Trajectory Simulation
