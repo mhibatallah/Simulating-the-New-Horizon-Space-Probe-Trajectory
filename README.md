@@ -1,4 +1,4 @@
-##Simulation of the New Horizon Space Probe
+## Simulation of the New Horizon Space Probe
 
 This project was part of my numerical project during my undergraduate studies.
 
