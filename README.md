@@ -8,8 +8,8 @@ For more information about the description of the project and about how the simu
 
 You can start by reading in this order:
 
-1.Solar System in 2D.html
+1.Solar System in 2D.ipynb
 
-2.Solar System in 3D.html
+2.Solar System in 3D.ipynb
 
-3.New Horizon Trajectory Simulation.html
+3.New Horizon Trajectory Simulation.ipynb
